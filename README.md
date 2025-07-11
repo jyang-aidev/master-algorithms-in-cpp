@@ -52,8 +52,8 @@ Each algorithm is introduced conceptually, followed by several examples that gra
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/classic-algorithms-cpp.git
-   cd classic-algorithms-cpp
+   git clone https://github.com/jyang-aidev/master-algorithms-in-cpp.git
+   cd master-algorithms-in-cpp
   
 2. Compile and run any example
    g++ sorting/bubble_sort.cpp -o bubble_sort
